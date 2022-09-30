@@ -5,7 +5,6 @@
 ### Hi there 👋
 
 # :nerd_face: About Me
-- :technologist: I'm currently working as a freelance software developer out of Sri Lanka.
 - :man_student: I’m currently reading for my Software Engineering Degree at SLIIT.
 - 🌱 I’m currently learning blockchain related technologies, machine learning and natural language processing.
 - 💬 Ask me about software development related gigs.
