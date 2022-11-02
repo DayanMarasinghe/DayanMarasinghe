@@ -8,7 +8,7 @@
 - :man_student: I’m currently reading for my Software Engineering Degree at SLIIT.
 - 🌱 I’m currently learning blockchain related technologies, machine learning and natural language processing.
 - 💬 Ask me about software development related gigs.
-- :monocle_face: Check out my blog as well: https://dayan-ma-aftechblog.blogspot.com/
+- :monocle_face: Check out my blog as well: https://medium.com/@dayanmarasinghe
 <br>
 <div id="badges">
     <a href="dayanmarasinghe@gmail.com">
